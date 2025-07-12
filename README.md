@@ -1,8 +1,6 @@
 # Retail_E-commerce
 # E-Commerce Sales Dashboard – Power BI
 
-![Dashboard Preview](dashboard.png)
-
 ## 📊 Project Overview
 
 This project presents an interactive **E-commerce Sales Dashboard** built using **Power BI**. It provides insights into key business metrics such as sales performance, customer behavior, and product category trends, enabling data-driven decision-making.
@@ -35,7 +33,7 @@ This project was created to demonstrate the ability to:
 - Extract business insights from raw data
 - Showcase data storytelling skills
 
-## 🖼️ Screenshot
+## 🖼 Dashboard
 
 Below is a preview of the dashboard:
 
